@@ -1,6 +1,6 @@
 # GPS -- Route Finder
 
-Implemented a program to find the shortest route between cities using and adjacency list. 
+Implemented a program to find the shortest route between cities using an adjacency list. 
 
 Language: Python
 Algorithm: Breadth First Search (BFS)
